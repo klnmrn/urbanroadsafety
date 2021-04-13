@@ -21,7 +21,7 @@ Here, we share the extracted/computed urban features and inter-mode collision da
 * [Data](https://github.com/klnmrn/urbanroadsafety/blob/main/data/urban_road_safety_data.csv)
   - The data contains 24 cities in Europe, their respective urban features and computed inter-mode collision data for all crash participants.
 * [Regression Notebook](https://github.com/klnmrn/urbanroadsafety/blob/main/urban-road-safety.ipynb)
-  - The notebook performs the regression task on 6 selected crash participants.
+  - The notebook performs the regression task on 6 selected crash participant pairs.
 
 ## Authors
 
