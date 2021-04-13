@@ -20,7 +20,7 @@ The CSV data file contains 24 cities in Europe (rows), their respective urban fe
 
 ## [Regression Notebook](https://github.com/klnmrn/urbanroadsafety/blob/main/urban-road-safety.ipynb)
 The notebook performs the regression task on 6 selected crash participant pairs.<br>
-**Before running the notebook make sure to have all the requirements installed and the data downloaded locally.**
+**Before running the notebook make sure to have all the requirements installed and the data downloaded locally with path adjustments in the code.**
 
 ## Authors
 This project was developed by Marina Klanjčić, Laetitia Gauvin, Michele Tizzoni and Michael Szell during Marina's Lagrange applied research fellowship at [Data Science for Social Impact and Sustainability Research Group](https://isi.it/en/research/data-science-for-social-impact-and-sustainability) of [ISI Foundation](http://www.isi.it/en) in Turin, Italy. 
