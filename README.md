@@ -1,7 +1,7 @@
 # Urban Road Safety 
 > Last modified on 2021-04-14
 
-This repository follows the paper "*Identifying urban features for vulnerable road user safety in Europe*" in which we identified urban features that are determinants of vulnerable road user safety through the analysis of inter-mode collision data across European cities. Our regression results (*shown in the heatmap below*) suggest that policies aimed at increasing the modal share of walking and cycling are keys to improve road safety for all road users. <br>
+This repository follows the paper *Identifying urban features for vulnerable road user safety in Europe* in which we identified urban features that are determinants of vulnerable road user safety through the analysis of inter-mode collision data across European cities. Our regression results (*shown in the heatmap below*) suggest that policies aimed at increasing the modal share of walking and cycling are keys to improve road safety for all road users. <br>
 Here, we share the extracted/computed urban features and inter-mode collision data, as well as the regression task notebook.
 
 <img src='regression_heatmap.png' width="500" align="center"/>
