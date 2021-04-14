@@ -28,7 +28,7 @@ This project was developed by Marina Klanjčić, Laetitia Gauvin, Michele Tizzon
 Data and code-related questions should be addressed to Marina Klanjčić (mrnkln@outlook.com).
 
 ## Acknowledgments 
-This work was funded by a grant for the Lagrange Project by CRT Foundation.
+This work was supported by the Lagrange Project of the CRT Foundation.
 
 ## [MIT License](https://github.com/klnmrn/urbanroadsafety/blob/main/LICENSE)
 
